@@ -1,6 +1,6 @@
 # Bikeshare Analysis
 ## Overview
-This report was created to inform decisions related to the development of a bikeshare program in Des Moines, Iowa. The analysis uses ride data for the month of August for an existing bike sharing program in New York.
+<a href="https://public.tableau.com/views/CitiBikeChallenge_16272572812730/CitiBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">This report</a> was created to inform decisions related to the development of a bikeshare program in Des Moines, Iowa. The analysis uses ride data for the month of August for an existing bike sharing program in New York.
 ### Resources
 The data examined in this report was obtained from CitiBike bike sharing program in New York, NY.
 
